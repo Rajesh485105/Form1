@@ -30,8 +30,8 @@
 	}
 	.line{
 		width: 150px;
-		height: 2px;
-		background: ##b5a8ae;
+		height: 3px;
+		background: #25e8c8;
 		text-align: center;
 		margin: 10px auto;
 	}
